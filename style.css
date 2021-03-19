@@ -1,8 +1,12 @@
-body {
+body{
     background-color: aqua;
 }
-
 .img {
     width: 100px;
     height: auto;
+}
+.klasa {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
